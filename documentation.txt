@@ -1,0 +1,2 @@
+1) create-react-app name-of-app
+2) cd src && rm App.css App.js App.test.js favicon.ico index.css logo.svg
