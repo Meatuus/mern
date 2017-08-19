@@ -11,7 +11,15 @@
     - Marked: to convert markdown syntax to html. I used this in place of Remarkable (which the FB tutorial uses)
     - Mongoose: abstracts away the MongoDB boilerplate for a simple Schema solution.
 6) create server.js in root
-
+7) integrate db in server.js file (eg mLabs)
+8) create schema - here it's model/comments.js
+9) require schema in server.js
+10) add Procfile in root
+11) add “start”: “react-scripts start”, “start-dev”: “nf start -p 3000”, to package.json
+12) run npm run start-dev to run both api and react app
+13) add GET and POST, etc to server.js file
+14) can test with postman by doing get and post requests through postman
+15) add api url to index.js render call
 
 
 - .gitignore
